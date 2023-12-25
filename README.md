@@ -13,13 +13,10 @@ The application uses a text file as a database to store tasks and their status.
   - Launch the GUI version of the application for a user-friendly experience.
   - Easily add, complete, and edit tasks with the click of a button.
 
-- **Export as Desktop App:**
-  - The application can be exported as a standalone desktop application for different operating systems.
-  - Provides a convenient way to use the To-Do List without the need for a terminal or console.
-
 - **Export as Web App:**
   - Convert the application into a web-based version that can be accessed through a web browser.
   - Users can manage their tasks from any device with internet access.
+  - You can check-out the exported web-app [here](https://simshigtodoweb.streamlit.app/)
 
 - **Text File Database:**
   - Tasks are stored in a simple text file acting as a database.
